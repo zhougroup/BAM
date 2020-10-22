@@ -9,10 +9,12 @@ att_type controls whether deterministic attention or stochastic attention was us
 ## Citation
 
 ```bibtex
-@article{Fan2020NIPS,
+
+@inproceedings{Fan2020bayesian,
   title={Bayesian Attention Modules},
   author={Xinjie Fan and Shujian Zhang and Bo Chen and Mingyuan Zhou},
-  journal={NeurIPS},
-  year={2020},
+booktitle = {NeurIPS 2020: Advances in Neural Information Processing Systems},
+month={Dec.},
+year = {2020}
 }
 ```
